@@ -1,0 +1,13 @@
+C:\Users\cbrady\Downloads\Apex_Suite.Fixed\ContexClient\bin\Release\RTBIConnectionClient.dll.config
+C:\Users\cbrady\Downloads\Apex_Suite.Fixed\ContexClient\bin\Release\RTBIConnectionClient.dll
+C:\Users\cbrady\Downloads\Apex_Suite.Fixed\ContexClient\bin\Release\RTBIConnectionClient.pdb
+C:\Users\cbrady\Downloads\Apex_Suite.Fixed\ContexClient\bin\Release\SpecExpress.dll
+C:\Users\cbrady\Downloads\Apex_Suite.Fixed\ContexClient\obj\Release\RTBIConnectionClient.dll
+C:\Users\cbrady\Downloads\Apex_Suite.Fixed\ContexClient\obj\Release\RTBIConnectionClient.pdb
+G:\!sort\Apex_Suite.Fixed\ContexClient\bin\Release\RTBIConnectionClient.dll.config
+G:\!sort\Apex_Suite.Fixed\ContexClient\bin\Release\RTBIConnectionClient.dll
+G:\!sort\Apex_Suite.Fixed\ContexClient\bin\Release\RTBIConnectionClient.pdb
+G:\!sort\Apex_Suite.Fixed\ContexClient\bin\Release\SpecExpress.dll
+G:\!sort\Apex_Suite.Fixed\ContexClient\obj\Release\Prod.Summit.Connection.Engine.csproj.CoreCompileInputs.cache
+G:\!sort\Apex_Suite.Fixed\ContexClient\obj\Release\RTBIConnectionClient.dll
+G:\!sort\Apex_Suite.Fixed\ContexClient\obj\Release\RTBIConnectionClient.pdb
