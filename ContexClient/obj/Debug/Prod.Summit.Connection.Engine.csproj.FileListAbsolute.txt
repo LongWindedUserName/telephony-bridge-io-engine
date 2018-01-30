@@ -1,0 +1,6 @@
+G:\gitRepo\RTBI_Connection_Engine\telephony-bridge-io-engine.git\ContexClient\bin\Debug\RTBIConnectionClient.dll.config
+G:\gitRepo\RTBI_Connection_Engine\telephony-bridge-io-engine.git\ContexClient\bin\Debug\RTBIConnectionClient.dll
+G:\gitRepo\RTBI_Connection_Engine\telephony-bridge-io-engine.git\ContexClient\bin\Debug\RTBIConnectionClient.pdb
+G:\gitRepo\RTBI_Connection_Engine\telephony-bridge-io-engine.git\ContexClient\obj\Debug\Prod.Summit.Connection.Engine.csproj.CoreCompileInputs.cache
+G:\gitRepo\RTBI_Connection_Engine\telephony-bridge-io-engine.git\ContexClient\obj\Debug\RTBIConnectionClient.dll
+G:\gitRepo\RTBI_Connection_Engine\telephony-bridge-io-engine.git\ContexClient\obj\Debug\RTBIConnectionClient.pdb
